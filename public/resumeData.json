@@ -1,87 +1,103 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "name": "Bereket Kibru",
+    "occupation": "Graduate Assistant II",
+    "description": "Full Stack Developer and Microsoft Azure AI engineer.",
+    "image": "bek.jpg",
+    "bio": "My name is Bereket, I'm a Full Stack junior  Developer, Certified Azure AI engineer . Currently I'm working at Defence University.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "bekakibru2@gmail.com",
+    "phone": "+251 924539088 Bereket Kibru",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "city": " Debreziet and Addis Ababa ",
+      "Country": "Ethiopia"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1v9VO1STgYKtRmiEzEVqZOci9gOUp46gF/view?usp=sharing",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "www.linkedin.com/in/bereket-kibru-b25234137",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "name": "github",
+        "url": "https://github.com/bereketkibru",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/kibru_bereket?s=09",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/kibrubereket/",
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "https://github.com/Nazariy995",
-        "className": "fa fa-github"
+        "name": "facebook",
+        "url": "https://www.facebook.com/bereket.kibru.1",
+        "className": "fa fa-facebook"
       }
+
+
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Defence University",
+        "degree": "Bachelor's Degree, Computer Science and System Engineering",
+        "graduated": "Aug 2020",
+        "description": "Graduated with Very Great Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
-      },
-      {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+        "company": "Defence University",
+        "title": "Graduate Assistant 2",
+        "years": "Aug 2020 - Present"
+        
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "JavaScript",
+        "level": "85%"
       },
       {
-        "name": "Python",
-        "level": "95%"
+        "name": "Azure AI Engineering",
+        "level": "80%"
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "65%"
       },
       {
         "name": "Git",
         "level": "75%"
       },
-      {
-        "name": "JavaScript",
-        "level": "100%"
-      },
+      
       {
         "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "Express",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
         "level": "80%"
       }
     ]
@@ -89,29 +105,20 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "E-Visa AI Bot",
+        "category": "Microsoft Skill lab program final project",
+        "image": "evisa.png"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "DUCE Online learning platform",
+        "category": "BS Final Project",
+        "image": "duce.png"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
+      
     ]
   }
 }
