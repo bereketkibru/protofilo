@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Bereket Kibru",
-    "occupation": "Graduate Assistant II",
-    "description": "Full Stack Developer and Microsoft Azure AI engineer.",
+    "occupation": "Assistant Lecturer,",
+    "description": "Full Stack Developer and Microsoft Azure AI Engineer",
     "image": "bek.jpg",
     "bio": "My name is Bereket, I'm a Full Stack junior  Developer, Certified Azure AI engineer . Currently I'm working at Defence University.",
     "contactmessage": "Get in touch with me to receive further details.",
@@ -57,7 +57,7 @@
     "work": [
       {
         "company": "Defence University",
-        "title": "Graduate Assistant 2",
+        "title": "Assistant Lecturer",
         "years": "Aug 2020 - Present"
         
       }
