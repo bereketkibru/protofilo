@@ -12,12 +12,12 @@
       "city": " Debreziet and Addis Ababa ",
       "Country": "Ethiopia"
     },
-    "resumedownload": "https://drive.google.com/file/d/16hRePOsZtoUM8lauhwsgSFz5jTnRMuZf/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1_QBjeeGQ8AW4eAYZ8SSmBoojx6vAfvHy/view?usp=sharing",
     "social": [
       
       {
         "name": "linkedin",
-        "url": "www.linkedin.com/in/bereket-kibru-b25234137",
+        "url": "https://www.linkedin.com/in/bereket-kibru-b25234137/",
         "className": "fa fa-linkedin"
       },
       {
@@ -39,7 +39,13 @@
         "name": "facebook",
         "url": "https://www.facebook.com/bereket.kibru.1",
         "className": "fa fa-facebook"
+      },
+      {
+        "name": "Pluralsight",
+        "url": "https://app.pluralsight.com/profile/bereket-kibru",
+        "className": "fa fa-pluralsight"
       }
+
 
 
     ]
